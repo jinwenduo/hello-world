@@ -1,2 +1,4 @@
 # hello-world
-just a practice
+只是练习
+hello everyone
+I love GitHub
